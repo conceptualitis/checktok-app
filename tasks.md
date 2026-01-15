@@ -5,3 +5,4 @@
 - [x] Prettier / eslint
 - [ ] Share sheet into the app from Safari / Chrome
 - [ ] Read from the pasteboard
+- [ ] Eden treaty types
